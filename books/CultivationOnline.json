@@ -2449,6 +2449,6 @@
 		{ "server" : "local", "Fecha" : "22-08-2026", "NombreArchivo" : "CultivationOnline-2447_JabraScan.pdf", "numCapitulo" : "2447", "nombreCapitulo" : "Energía Extraña"                                                       	, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "22-08-2026", "NombreArchivo" : "CultivationOnline-2448_JabraScan.pdf", "numCapitulo" : "2448", "nombreCapitulo" : "Owen (1)"                                                              	, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "23-08-2026", "NombreArchivo" : "CultivationOnline-2449_JabraScan.pdf", "numCapitulo" : "2449", "nombreCapitulo" : "Owen (2)"                                                              	, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "23-08-2026", "NombreArchivo" : "CultivationOnline-2450_JabraScan.pdf", "numCapitulo" : "2450", "nombreCapitulo" : "Luchando contra Owen"                                                  	, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "23-08-2026", "NombreArchivo" : "CultivationOnline-2450_JabraScan.pdf", "numCapitulo" : "2450", "nombreCapitulo" : "Luchando contra Owen (1)"                                               , "tituloObra" : "Cultivation Online" }
   ]
 }
