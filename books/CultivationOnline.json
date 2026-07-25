@@ -2543,7 +2543,13 @@
 		{ "server" : "local", "Fecha" : "16-08-2026", "NombreArchivo" : "CultivationOnline-2541_JabraScan.pdf", "numCapitulo" : "2541", "nombreCapitulo" : "¿La Tierra?"                                                           				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "16-08-2026", "NombreArchivo" : "CultivationOnline-2542_JabraScan.pdf", "numCapitulo" : "2542", "nombreCapitulo" : "Refugiándose"                                                          				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "16-08-2026", "NombreArchivo" : "CultivationOnline-2543_JabraScan.pdf", "numCapitulo" : "2543", "nombreCapitulo" : "Arrestado"                                                             				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "16-08-2026", "NombreArchivo" : "CultivationOnline-2544_JabraScan.pdf", "numCapitulo" : "2544", "nombreCapitulo" : "Registro"                                                              				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "16-08-2026", "NombreArchivo" : "CultivationOnline-2544_JabraScan.pdf", "numCapitulo" : "2544", "nombreCapitulo" : "Registro"                                                              				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "16-08-2026", "NombreArchivo" : "CultivationOnline-2545_JabraScan.pdf", "numCapitulo" : "2545", "nombreCapitulo" : "El Sistema de Gaia"                                                    				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "16-08-2026", "NombreArchivo" : "CultivationOnline-2546_JabraScan.pdf", "numCapitulo" : "2546", "nombreCapitulo" : "Refinamiento Celestial Perfeccionado"                                  				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "17-08-2026", "NombreArchivo" : "CultivationOnline-2547_JabraScan.pdf", "numCapitulo" : "2547", "nombreCapitulo" : "Psiquiatra"                                                            				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "17-08-2026", "NombreArchivo" : "CultivationOnline-2548_JabraScan.pdf", "numCapitulo" : "2548", "nombreCapitulo" : "Rango de Credenciales"                                                 				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "17-08-2026", "NombreArchivo" : "CultivationOnline-2549_JabraScan.pdf", "numCapitulo" : "2549", "nombreCapitulo" : "La Oficial Mei (1)"                                                    				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "17-08-2026", "NombreArchivo" : "CultivationOnline-2550_JabraScan.pdf", "numCapitulo" : "2550", "nombreCapitulo" : "La Oficial Mei (2)"                                                    				, "tituloObra" : "Cultivation Online" },
 
   ]
 }
