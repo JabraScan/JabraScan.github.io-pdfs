@@ -2578,6 +2578,9 @@
 		{ "server" : "local", "Fecha" : "21-08-2026", "NombreArchivo" : "CultivationOnline-2576_JabraScan.pdf", "numCapitulo" : "2576", "nombreCapitulo" : "Abandonando el Santuario de Gaia"                                      				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "22-08-2026", "NombreArchivo" : "CultivationOnline-2577_JabraScan.pdf", "numCapitulo" : "2577", "nombreCapitulo" : "Base Militar"                                                          				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "22-08-2026", "NombreArchivo" : "CultivationOnline-2578_JabraScan.pdf", "numCapitulo" : "2578", "nombreCapitulo" : "Reclutamiento Militar (1)"                                                 			, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "22-08-2026", "NombreArchivo" : "CultivationOnline-2579_JabraScan.pdf", "numCapitulo" : "2579", "nombreCapitulo" : "Reclutamiento Militar (2)"                                             				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "22-08-2026", "NombreArchivo" : "CultivationOnline-2579_JabraScan.pdf", "numCapitulo" : "2579", "nombreCapitulo" : "Reclutamiento Militar (2)"                                             				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "22-08-2026", "NombreArchivo" : "CultivationOnline-2580_JabraScan.pdf", "numCapitulo" : "2580", "nombreCapitulo" : "Reclutamiento Militar (3)"                                             				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "22-08-2026", "NombreArchivo" : "CultivationOnline-2581_JabraScan.pdf", "numCapitulo" : "2581", "nombreCapitulo" : "Reclutamiento Militar (4)"                                             				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "22-08-2026", "NombreArchivo" : "CultivationOnline-2582_JabraScan.pdf", "numCapitulo" : "2582", "nombreCapitulo" : "Reclutamiento Militar (5)"                                             				, "tituloObra" : "Cultivation Online" }
   ]
 }
