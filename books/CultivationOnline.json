@@ -2588,7 +2588,12 @@
 		{ "server" : "local", "Fecha" : "23-08-2026", "NombreArchivo" : "CultivationOnline-2586_JabraScan.pdf", "numCapitulo" : "2586", "nombreCapitulo" : "Reclutamiento Militar (9)"                                             				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "23-08-2026", "NombreArchivo" : "CultivationOnline-2587_JabraScan.pdf", "numCapitulo" : "2587", "nombreCapitulo" : "Capitán Gu (1)"                                                        				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "23-08-2026", "NombreArchivo" : "CultivationOnline-2588_JabraScan.pdf", "numCapitulo" : "2588", "nombreCapitulo" : "Capitán Gu (2)"                                                        				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2589_JabraScan.pdf", "numCapitulo" : "2589", "nombreCapitulo" : "Capitán Gu (3)"                                                        				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2589_JabraScan.pdf", "numCapitulo" : "2589", "nombreCapitulo" : "Capitán Gu (3)"                                                        				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2590_JabraScan.pdf", "numCapitulo" : "2590", "nombreCapitulo" : "Fin del Reclutamiento Militar"                                         				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2591_JabraScan.pdf", "numCapitulo" : "2591", "nombreCapitulo" : "General Gu"                                                            				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2592_JabraScan.pdf", "numCapitulo" : "2592", "nombreCapitulo" : "El Propósito de las Fuerzas Armadas"                                   				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2593_JabraScan.pdf", "numCapitulo" : "2593", "nombreCapitulo" : "Novena División"                                                       				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2594_JabraScan.pdf", "numCapitulo" : "2594", "nombreCapitulo" : "Incorporación a la Primera División"                                   				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
