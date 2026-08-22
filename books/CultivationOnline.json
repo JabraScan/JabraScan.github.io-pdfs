@@ -2593,7 +2593,9 @@
 		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2591_JabraScan.pdf", "numCapitulo" : "2591", "nombreCapitulo" : "General Gu"                                                            				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2592_JabraScan.pdf", "numCapitulo" : "2592", "nombreCapitulo" : "El Propósito de las Fuerzas Armadas"                                   				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2593_JabraScan.pdf", "numCapitulo" : "2593", "nombreCapitulo" : "Novena División"                                                       				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2594_JabraScan.pdf", "numCapitulo" : "2594", "nombreCapitulo" : "Incorporación a la Primera División"                                   				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2594_JabraScan.pdf", "numCapitulo" : "2594", "nombreCapitulo" : "Uniéndose a la Primera División"                                   					, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2595_JabraScan.pdf", "numCapitulo" : "2595", "nombreCapitulo" : "Sala de Gravedad"                                                      				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2596_JabraScan.pdf", "numCapitulo" : "2596", "nombreCapitulo" : "Primera Misión en el Ejército"                                         				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
