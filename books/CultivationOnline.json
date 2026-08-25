@@ -2595,7 +2595,11 @@
 		{ "server" : "local", "Fecha" : "24-08-2026", "NombreArchivo" : "CultivationOnline-2593_JabraScan.pdf", "numCapitulo" : "2593", "nombreCapitulo" : "Novena División"                                                       				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2594_JabraScan.pdf", "numCapitulo" : "2594", "nombreCapitulo" : "Uniéndose a la Primera División"                                   					, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2595_JabraScan.pdf", "numCapitulo" : "2595", "nombreCapitulo" : "Sala de Gravedad"                                                      				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2596_JabraScan.pdf", "numCapitulo" : "2596", "nombreCapitulo" : "Primera Misión en el Ejército"                                         				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2596_JabraScan.pdf", "numCapitulo" : "2596", "nombreCapitulo" : "Primera Misión en el Ejército"                                         				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2597_JabraScan.pdf", "numCapitulo" : "2597", "nombreCapitulo" : "El Mundo Más Allá de las Murallas de la Ciudad"                        				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2598_JabraScan.pdf", "numCapitulo" : "2598", "nombreCapitulo" : "Arma Elegida"                                                          				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "26-08-2026", "NombreArchivo" : "CultivationOnline-2599_JabraScan.pdf", "numCapitulo" : "2599", "nombreCapitulo" : "Minigun"                                                               				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "26-08-2026", "NombreArchivo" : "CultivationOnline-2600_JabraScan.pdf", "numCapitulo" : "2600", "nombreCapitulo" : "Cinco Zonas"                                                           				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
