@@ -2600,7 +2600,9 @@
 		{ "server" : "local", "Fecha" : "25-08-2026", "NombreArchivo" : "CultivationOnline-2598_JabraScan.pdf", "numCapitulo" : "2598", "nombreCapitulo" : "Arma Elegida"                                                          				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "26-08-2026", "NombreArchivo" : "CultivationOnline-2599_JabraScan.pdf", "numCapitulo" : "2599", "nombreCapitulo" : "Minigun"                                                               				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "26-08-2026", "NombreArchivo" : "CultivationOnline-2600_JabraScan.pdf", "numCapitulo" : "2600", "nombreCapitulo" : "Cinco Zonas"                                                           				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "26-08-2026", "NombreArchivo" : "CultivationOnline-2601_JabraScan.pdf", "numCapitulo" : "2601", "nombreCapitulo" : "Cielo de Gaia"                                                         				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "26-08-2026", "NombreArchivo" : "CultivationOnline-2601_JabraScan.pdf", "numCapitulo" : "2601", "nombreCapitulo" : "Cielo de Gaia"                                                         				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "27-08-2026", "NombreArchivo" : "CultivationOnline-2602_JabraScan.pdf", "numCapitulo" : "2602", "nombreCapitulo" : "Tercera Misión"                                                        				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "27-08-2026", "NombreArchivo" : "CultivationOnline-2603_JabraScan.pdf", "numCapitulo" : "2603", "nombreCapitulo" : "El Maníaco de la Limpieza"                                             				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
