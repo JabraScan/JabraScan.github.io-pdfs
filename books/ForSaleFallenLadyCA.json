@@ -1,6 +1,6 @@
 {
   "ForSaleFallenLady": [
-		{ "server" : "io-pdfs", "Fecha" : "26-08-2026", "NombreArchivo" : "ForSaleFallenLady-0001_JabraScanCA.pdf", "numCapitulo" :   "1", "nombreCapitulo" : "La Vaig Comprar Perquè Era Barata (1)"                                       	, "tituloObra" : "En venda. Dama caiguda. Mai utilitzada." },
-		{ "server" : "io-pdfs", "Fecha" : "28-08-2026", "NombreArchivo" : "ForSaleFallenLady-0002_JabraScanCA.pdf", "numCapitulo" :   "2", "nombreCapitulo" : "La Vaig Comprar Perquè Era Barata (2)"                                       	, "tituloObra" : "En venda. Dama caiguda. Mai utilitzada." }
+		{ "server" : "io-pdfs", "Fecha" : "26-08-2026", "NombreArchivo" : "ForSaleFallenLady-0001_JabraScanCA.pdf", "numCapitulo" :   "1", "nombreCapitulo" : "La Vaig Comprar Perquè Era Barata (1)"                                       	, "tituloObra" : "En venda. Dama Caiguda. Mai Utilitzada." },
+		{ "server" : "io-pdfs", "Fecha" : "28-08-2026", "NombreArchivo" : "ForSaleFallenLady-0002_JabraScanCA.pdf", "numCapitulo" :   "2", "nombreCapitulo" : "La Vaig Comprar Perquè Era Barata (2)"                                       	, "tituloObra" : "En venda. Dama Caiguda. Mai Utilitzada." }
   ]		
 }
