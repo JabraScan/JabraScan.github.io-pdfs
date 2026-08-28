@@ -2603,7 +2603,8 @@
 		{ "server" : "local", "Fecha" : "26-08-2026", "NombreArchivo" : "CultivationOnline-2601_JabraScan.pdf", "numCapitulo" : "2601", "nombreCapitulo" : "Cielo de Gaia"                                                         				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "27-08-2026", "NombreArchivo" : "CultivationOnline-2602_JabraScan.pdf", "numCapitulo" : "2602", "nombreCapitulo" : "Tercera Misión"                                                        				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "27-08-2026", "NombreArchivo" : "CultivationOnline-2603_JabraScan.pdf", "numCapitulo" : "2603", "nombreCapitulo" : "El Maníaco de la Limpieza"                                             				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "28-08-2026", "NombreArchivo" : "CultivationOnline-2604_JabraScan.pdf", "numCapitulo" : "2604", "nombreCapitulo" : "Mineral Desconocido"                                                   				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "28-08-2026", "NombreArchivo" : "CultivationOnline-2604_JabraScan.pdf", "numCapitulo" : "2604", "nombreCapitulo" : "Mineral Desconocido (1)"                                               				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "28-08-2026", "NombreArchivo" : "CultivationOnline-2605_JabraScan.pdf", "numCapitulo" : "2605", "nombreCapitulo" : "Mineral Desconocido (2)"                                               				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
