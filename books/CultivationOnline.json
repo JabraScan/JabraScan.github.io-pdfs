@@ -2606,6 +2606,7 @@
 		{ "server" : "local", "Fecha" : "28-08-2026", "NombreArchivo" : "CultivationOnline-2604_JabraScan.pdf", "numCapitulo" : "2604", "nombreCapitulo" : "Mineral Desconocido (1)"                                               				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "28-08-2026", "NombreArchivo" : "CultivationOnline-2605_JabraScan.pdf", "numCapitulo" : "2605", "nombreCapitulo" : "Mineral Desconocido (2)"                                               				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "29-08-2026", "NombreArchivo" : "CultivationOnline-2606_JabraScan.pdf", "numCapitulo" : "2606", "nombreCapitulo" : "Un Desempeño Decepcionante"                                            				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "31-08-2026", "NombreArchivo" : "CultivationOnline-2607_JabraScan.pdf", "numCapitulo" : "2607", "nombreCapitulo" : "Cazador del Vacío"                                            						, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "31-08-2026", "NombreArchivo" : "CultivationOnline-2607_JabraScan.pdf", "numCapitulo" : "2607", "nombreCapitulo" : "Cazador del Vacío"                                            						, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "01-09-2026", "NombreArchivo" : "CultivationOnline-2608_JabraScan.pdf", "numCapitulo" : "2608", "nombreCapitulo" : "Aprendiendo Control del Vacío"                                         				, "tituloObra" : "Cultivation Online" }
   ]
 }
