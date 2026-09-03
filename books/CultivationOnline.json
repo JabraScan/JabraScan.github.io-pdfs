@@ -2612,6 +2612,7 @@
 		{ "server" : "local", "Fecha" : "02-09-2026", "NombreArchivo" : "CultivationOnline-2610_JabraScan.pdf", "numCapitulo" : "2610", "nombreCapitulo" : "Evaluación del Control del Vacío (1)"                                  				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "03-09-2026", "NombreArchivo" : "CultivationOnline-2611_JabraScan.pdf", "numCapitulo" : "2611", "nombreCapitulo" : "Evaluación del Control del Vacío (2)"                                  				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "03-09-2026", "NombreArchivo" : "CultivationOnline-2612_JabraScan.pdf", "numCapitulo" : "2612", "nombreCapitulo" : "Evaluación del Control del Vacío (3)"                                  				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "03-09-2026", "NombreArchivo" : "CultivationOnline-2613_JabraScan.pdf", "numCapitulo" : "2613", "nombreCapitulo" : "Repetición del Examen"                                                 				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "03-09-2026", "NombreArchivo" : "CultivationOnline-2613_JabraScan.pdf", "numCapitulo" : "2613", "nombreCapitulo" : "Repetición del Examen"                                                 				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "04-09-2026", "NombreArchivo" : "CultivationOnline-2614_JabraScan.pdf", "numCapitulo" : "2614", "nombreCapitulo" : "Anomalías"                                                 							, "tituloObra" : "Cultivation Online" }
   ]
 }
