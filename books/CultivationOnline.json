@@ -2617,6 +2617,9 @@
 		{ "server" : "local", "Fecha" : "05-09-2026", "NombreArchivo" : "CultivationOnline-2615_JabraScan.pdf", "numCapitulo" : "2615", "nombreCapitulo" : "Zona Roja (1)"                                                         				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "06-09-2026", "NombreArchivo" : "CultivationOnline-2616_JabraScan.pdf", "numCapitulo" : "2616", "nombreCapitulo" : "Zona Roja (2)"                                                         				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "07-09-2026", "NombreArchivo" : "CultivationOnline-2617_JabraScan.pdf", "numCapitulo" : "2617", "nombreCapitulo" : "El Final del Tunel"                                                    				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "08-09-2026", "NombreArchivo" : "CultivationOnline-2618_JabraScan.pdf", "numCapitulo" : "2618", "nombreCapitulo" : "Ironwoman"                                                             				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "08-09-2026", "NombreArchivo" : "CultivationOnline-2618_JabraScan.pdf", "numCapitulo" : "2618", "nombreCapitulo" : "Ironwoman"                                                             				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "08-09-2026", "NombreArchivo" : "CultivationOnline-2619_JabraScan.pdf", "numCapitulo" : "2619", "nombreCapitulo" : "Diez Minutos de Ventaja"                                               				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "09-09-2026", "NombreArchivo" : "CultivationOnline-2620_JabraScan.pdf", "numCapitulo" : "2620", "nombreCapitulo" : "Ganando Reputación"                                                    				, "tituloObra" : "Cultivation Online" }
+
   ]
 }
