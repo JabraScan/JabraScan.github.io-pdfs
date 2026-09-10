@@ -2622,7 +2622,8 @@
 		{ "server" : "local", "Fecha" : "09-09-2026", "NombreArchivo" : "CultivationOnline-2620_JabraScan.pdf", "numCapitulo" : "2620", "nombreCapitulo" : "Ganando Reputación"                                                    				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "10-09-2026", "NombreArchivo" : "CultivationOnline-2621_JabraScan.pdf", "numCapitulo" : "2621", "nombreCapitulo" : "Cabo Yuan"                                                             				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "10-09-2026", "NombreArchivo" : "CultivationOnline-2622_JabraScan.pdf", "numCapitulo" : "2622", "nombreCapitulo" : "Una Nueva Misión"                                                      				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "10-09-2026", "NombreArchivo" : "CultivationOnline-2623_JabraScan.pdf", "numCapitulo" : "2623", "nombreCapitulo" : "Escuadrón Escorpión"                                                   				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "10-09-2026", "NombreArchivo" : "CultivationOnline-2623_JabraScan.pdf", "numCapitulo" : "2623", "nombreCapitulo" : "Escuadrón Escorpión"                                                   				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "11-09-2026", "NombreArchivo" : "CultivationOnline-2624_JabraScan.pdf", "numCapitulo" : "2624", "nombreCapitulo" : "Zona Púrpura"                                                          				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
