@@ -2619,7 +2619,10 @@
 		{ "server" : "local", "Fecha" : "07-09-2026", "NombreArchivo" : "CultivationOnline-2617_JabraScan.pdf", "numCapitulo" : "2617", "nombreCapitulo" : "El Final del Tunel"                                                    				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "08-09-2026", "NombreArchivo" : "CultivationOnline-2618_JabraScan.pdf", "numCapitulo" : "2618", "nombreCapitulo" : "Ironwoman"                                                             				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "08-09-2026", "NombreArchivo" : "CultivationOnline-2619_JabraScan.pdf", "numCapitulo" : "2619", "nombreCapitulo" : "Diez Minutos de Ventaja"                                               				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "09-09-2026", "NombreArchivo" : "CultivationOnline-2620_JabraScan.pdf", "numCapitulo" : "2620", "nombreCapitulo" : "Ganando Reputación"                                                    				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "09-09-2026", "NombreArchivo" : "CultivationOnline-2620_JabraScan.pdf", "numCapitulo" : "2620", "nombreCapitulo" : "Ganando Reputación"                                                    				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "10-09-2026", "NombreArchivo" : "CultivationOnline-2621_JabraScan.pdf", "numCapitulo" : "2621", "nombreCapitulo" : "Cabo Yuan"                                                             				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "10-09-2026", "NombreArchivo" : "CultivationOnline-2622_JabraScan.pdf", "numCapitulo" : "2622", "nombreCapitulo" : "Una Nueva Misión"                                                      				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "10-09-2026", "NombreArchivo" : "CultivationOnline-2623_JabraScan.pdf", "numCapitulo" : "2623", "nombreCapitulo" : "Escuadrón Escorpión"                                                   				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
