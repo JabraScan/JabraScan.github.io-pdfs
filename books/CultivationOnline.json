@@ -2630,7 +2630,8 @@
 		{ "server" : "local", "Fecha" : "13-09-2026", "NombreArchivo" : "CultivationOnline-2628_JabraScan.pdf", "numCapitulo" : "2628", "nombreCapitulo" : "Doble Guardian del Vacío"                                           				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "13-09-2026", "NombreArchivo" : "CultivationOnline-2629_JabraScan.pdf", "numCapitulo" : "2629", "nombreCapitulo" : "Dejando de Fingir"                                                     				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "14-09-2026", "NombreArchivo" : "CultivationOnline-2630_JabraScan.pdf", "numCapitulo" : "2630", "nombreCapitulo" : "Zona Negra (1)"                                                            			, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "14-09-2026", "NombreArchivo" : "CultivationOnline-2631_JabraScan.pdf", "numCapitulo" : "2631", "nombreCapitulo" : "Zona Negra (2)"                                                            			, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "14-09-2026", "NombreArchivo" : "CultivationOnline-2631_JabraScan.pdf", "numCapitulo" : "2631", "nombreCapitulo" : "Zona Negra (2)"                                                            			, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "16-09-2026", "NombreArchivo" : "CultivationOnline-2632_JabraScan.pdf", "numCapitulo" : "2632", "nombreCapitulo" : "Zona Negra (3)"                                                        				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
