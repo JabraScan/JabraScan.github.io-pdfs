@@ -2633,7 +2633,8 @@
 		{ "server" : "local", "Fecha" : "14-09-2026", "NombreArchivo" : "CultivationOnline-2631_JabraScan.pdf", "numCapitulo" : "2631", "nombreCapitulo" : "Zona Negra (2)"                                                            			, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "16-09-2026", "NombreArchivo" : "CultivationOnline-2632_JabraScan.pdf", "numCapitulo" : "2632", "nombreCapitulo" : "Zona Negra (3)"                                                        				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "16-09-2026", "NombreArchivo" : "CultivationOnline-2633_JabraScan.pdf", "numCapitulo" : "2633", "nombreCapitulo" : "Interrogatorio al Escuadrón Escorpión"                                 				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "16-09-2026", "NombreArchivo" : "CultivationOnline-2634_JabraScan.pdf", "numCapitulo" : "2634", "nombreCapitulo" : "Veredicto"                                 											, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "16-09-2026", "NombreArchivo" : "CultivationOnline-2634_JabraScan.pdf", "numCapitulo" : "2634", "nombreCapitulo" : "Veredicto (1)"                             											, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "17-09-2026", "NombreArchivo" : "CultivationOnline-2635_JabraScan.pdf", "numCapitulo" : "2635", "nombreCapitulo" : "Veredicto (2)"                             											, "tituloObra" : "Cultivation Online" }
 
   ]
 }
