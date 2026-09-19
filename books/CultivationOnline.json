@@ -2634,7 +2634,10 @@
 		{ "server" : "local", "Fecha" : "16-09-2026", "NombreArchivo" : "CultivationOnline-2632_JabraScan.pdf", "numCapitulo" : "2632", "nombreCapitulo" : "Zona Negra (3)"                                                        				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "16-09-2026", "NombreArchivo" : "CultivationOnline-2633_JabraScan.pdf", "numCapitulo" : "2633", "nombreCapitulo" : "Interrogatorio al Escuadrón Escorpión"                                 				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "16-09-2026", "NombreArchivo" : "CultivationOnline-2634_JabraScan.pdf", "numCapitulo" : "2634", "nombreCapitulo" : "Veredicto (1)"                             											, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "17-09-2026", "NombreArchivo" : "CultivationOnline-2635_JabraScan.pdf", "numCapitulo" : "2635", "nombreCapitulo" : "Veredicto (2)"                             											, "tituloObra" : "Cultivation Online" }
-
+		{ "server" : "local", "Fecha" : "17-09-2026", "NombreArchivo" : "CultivationOnline-2635_JabraScan.pdf", "numCapitulo" : "2635", "nombreCapitulo" : "Veredicto (2)"                             											, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "18-09-2026", "NombreArchivo" : "CultivationOnline-2636_JabraScan.pdf", "numCapitulo" : "2636", "nombreCapitulo" : "¿Un Soldado o Un Bandido?"                                             				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "18-09-2026", "NombreArchivo" : "CultivationOnline-2637_JabraScan.pdf", "numCapitulo" : "2637", "nombreCapitulo" : "Un Nuevo Tipo de Espectro del Vacío"                                   				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "18-09-2026", "NombreArchivo" : "CultivationOnline-2638_JabraScan.pdf", "numCapitulo" : "2638", "nombreCapitulo" : "Siguiendo el Rastro (1)"                                                   			, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "19-09-2026", "NombreArchivo" : "CultivationOnline-2639_JabraScan.pdf", "numCapitulo" : "2638", "nombreCapitulo" : "Siguiendo el Rastro (2)"                                                   			, "tituloObra" : "Cultivation Online" }
   ]
 }
