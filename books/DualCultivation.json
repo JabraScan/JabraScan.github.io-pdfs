@@ -1145,6 +1145,8 @@
         { "server" : "local", "Fecha" : "19-06-2026", "NombreArchivo" : "DualCultivation-1143_JabraScanvol11.pdf", "numCapitulo" : "1143", "nombreCapitulo" : "Un breve Intercambio"                                          , "tituloObra" : "Dual Cultivation - Vol 11" },
         { "server" : "local", "Fecha" : "21-06-2026", "NombreArchivo" : "DualCultivation-1144_JabraScanvol11.pdf", "numCapitulo" : "1144", "nombreCapitulo" : "Llegada a la Cueva del Yin Yang Eterno"                        , "tituloObra" : "Dual Cultivation - Vol 11" },
         { "server" : "local", "Fecha" : "23-06-2026", "NombreArchivo" : "DualCultivation-1145_JabraScanvol11.pdf", "numCapitulo" : "1145", "nombreCapitulo" : "Requisitos"                                                    , "tituloObra" : "Dual Cultivation - Vol 11" },
-        { "server" : "local", "Fecha" : "25-06-2026", "NombreArchivo" : "DualCultivation-1146_JabraScanvol11.pdf", "numCapitulo" : "1146", "nombreCapitulo" : "Entrando en la Cueva del Yin Yang Eterno"                      , "tituloObra" : "Dual Cultivation - Vol 11" }
+        { "server" : "local", "Fecha" : "25-06-2026", "NombreArchivo" : "DualCultivation-1146_JabraScanvol11.pdf", "numCapitulo" : "1146", "nombreCapitulo" : "Entrando en la Cueva del Yin Yang Eterno"                      , "tituloObra" : "Dual Cultivation - Vol 11" },
+        { "server" : "local", "Fecha" : "19-09-2026", "NombreArchivo" : "DualCultivation-1147_JabraScanvol11.pdf", "numCapitulo" : "1147", "nombreCapitulo" : "Sublíder de Secta Chen Yi"                                     , "tituloObra" : "Dual Cultivation - Vol 11" }
+
   ]
 }
