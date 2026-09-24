@@ -2645,6 +2645,7 @@
 		{ "server" : "local", "Fecha" : "21-09-2026", "NombreArchivo" : "CultivationOnline-2643_JabraScan.pdf", "numCapitulo" : "2643", "nombreCapitulo" : "Regresando a la Base Militar"                                          				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "21-09-2026", "NombreArchivo" : "CultivationOnline-2644_JabraScan.pdf", "numCapitulo" : "2644", "nombreCapitulo" : "El Testimonio de Yuan (1)"                                                 			, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "22-09-2026", "NombreArchivo" : "CultivationOnline-2645_JabraScan.pdf", "numCapitulo" : "2645", "nombreCapitulo" : "El Testimonio de Yuan (2)"                                                 			, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "23-09-2026", "NombreArchivo" : "CultivationOnline-2646_JabraScan.pdf", "numCapitulo" : "2646", "nombreCapitulo" : "El Testimonio de Yuan (3)"                                                 			, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "23-09-2026", "NombreArchivo" : "CultivationOnline-2646_JabraScan.pdf", "numCapitulo" : "2646", "nombreCapitulo" : "El Testimonio de Yuan (3)"                                                 			, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "24-09-2026", "NombreArchivo" : "CultivationOnline-2647_JabraScan.pdf", "numCapitulo" : "2647", "nombreCapitulo" : "Confirmación"                                                          				, "tituloObra" : "Cultivation Online" }
   ]
 }
