@@ -2649,7 +2649,8 @@
 		{ "server" : "local", "Fecha" : "24-09-2026", "NombreArchivo" : "CultivationOnline-2647_JabraScan.pdf", "numCapitulo" : "2647", "nombreCapitulo" : "Confirmación"                                                          				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "24-09-2026", "NombreArchivo" : "CultivationOnline-2648_JabraScan.pdf", "numCapitulo" : "2648", "nombreCapitulo" : "El Informe de la Ironwoman"                                            				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "28-09-2026", "NombreArchivo" : "CultivationOnline-2649_JabraScan.pdf", "numCapitulo" : "2649", "nombreCapitulo" : "Ascenso"                                                               				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "28-09-2026", "NombreArchivo" : "CultivationOnline-2650_JabraScan.pdf", "numCapitulo" : "2650", "nombreCapitulo" : "Creando Su Propio Escuadrón"                                           				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "28-09-2026", "NombreArchivo" : "CultivationOnline-2650_JabraScan.pdf", "numCapitulo" : "2650", "nombreCapitulo" : "Creando Su Propio Escuadrón"                                           				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "28-09-2026", "NombreArchivo" : "CultivationOnline-2651_JabraScan.pdf", "numCapitulo" : "2651", "nombreCapitulo" : "Despejando el Piso 46"                                                 				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
