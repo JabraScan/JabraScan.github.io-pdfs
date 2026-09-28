@@ -2647,6 +2647,9 @@
 		{ "server" : "local", "Fecha" : "22-09-2026", "NombreArchivo" : "CultivationOnline-2645_JabraScan.pdf", "numCapitulo" : "2645", "nombreCapitulo" : "El Testimonio de Yuan (2)"                                                 			, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "23-09-2026", "NombreArchivo" : "CultivationOnline-2646_JabraScan.pdf", "numCapitulo" : "2646", "nombreCapitulo" : "El Testimonio de Yuan (3)"                                                 			, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "24-09-2026", "NombreArchivo" : "CultivationOnline-2647_JabraScan.pdf", "numCapitulo" : "2647", "nombreCapitulo" : "Confirmación"                                                          				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "24-09-2026", "NombreArchivo" : "CultivationOnline-2648_JabraScan.pdf", "numCapitulo" : "2648", "nombreCapitulo" : "El Informe de la Ironwoman"                                            				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "24-09-2026", "NombreArchivo" : "CultivationOnline-2648_JabraScan.pdf", "numCapitulo" : "2648", "nombreCapitulo" : "El Informe de la Ironwoman"                                            				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "28-09-2026", "NombreArchivo" : "CultivationOnline-2649_JabraScan.pdf", "numCapitulo" : "2649", "nombreCapitulo" : "Ascenso"                                                               				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "28-09-2026", "NombreArchivo" : "CultivationOnline-2650_JabraScan.pdf", "numCapitulo" : "2650", "nombreCapitulo" : "Creando Su Propio Escuadrón"                                           				, "tituloObra" : "Cultivation Online" }
+
   ]
 }
