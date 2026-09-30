@@ -2652,7 +2652,7 @@
 		{ "server" : "local", "Fecha" : "28-09-2026", "NombreArchivo" : "CultivationOnline-2650_JabraScan.pdf", "numCapitulo" : "2650", "nombreCapitulo" : "Creando Su Propio Escuadrón"                                           				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "28-09-2026", "NombreArchivo" : "CultivationOnline-2651_JabraScan.pdf", "numCapitulo" : "2651", "nombreCapitulo" : "Despejando el Piso 46"                                                 				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "29-09-2026", "NombreArchivo" : "CultivationOnline-2652_JabraScan.pdf", "numCapitulo" : "2652", "nombreCapitulo" : "El Nombre del Escuadrón"                                               				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "29-09-2026", "NombreArchivo" : "CultivationOnline-2653_JabraScan.pdf", "numCapitulo" : "2653", "nombreCapitulo" : "Breve Sesión Informativa"                                              				, "tituloObra" : "Cultivation Online" }
-
+		{ "server" : "local", "Fecha" : "29-09-2026", "NombreArchivo" : "CultivationOnline-2653_JabraScan.pdf", "numCapitulo" : "2653", "nombreCapitulo" : "Breve Sesión Informativa"                                              				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "29-09-2026", "NombreArchivo" : "CultivationOnline-2654_JabraScan.pdf", "numCapitulo" : "2654", "nombreCapitulo" : "Maniobras"                                                             				, "tituloObra" : "Cultivation Online" }
   ]
 }
