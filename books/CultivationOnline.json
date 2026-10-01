@@ -2653,8 +2653,9 @@
 		{ "server" : "local", "Fecha" : "28-09-2026", "NombreArchivo" : "CultivationOnline-2651_JabraScan.pdf", "numCapitulo" : "2651", "nombreCapitulo" : "Despejando el Piso 46"                                                 				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "30-09-2026", "NombreArchivo" : "CultivationOnline-2652_JabraScan.pdf", "numCapitulo" : "2652", "nombreCapitulo" : "El Nombre del Escuadrón"                                               				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "30-09-2026", "NombreArchivo" : "CultivationOnline-2653_JabraScan.pdf", "numCapitulo" : "2653", "nombreCapitulo" : "Breve Sesión Informativa"                                              				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "30-09-2026", "NombreArchivo" : "CultivationOnline-2654_JabraScan.pdf", "numCapitulo" : "2654", "nombreCapitulo" : "Maniobras"                                                             				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "01-10-2026", "NombreArchivo" : "CultivationOnline-2655_JabraScan.pdf", "numCapitulo" : "2655", "nombreCapitulo" : "Maniobras (2)"                                                         				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "30-09-2026", "NombreArchivo" : "CultivationOnline-2654_JabraScan.pdf", "numCapitulo" : "2654", "nombreCapitulo" : "Maniobras (1)"                                                         				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "01-10-2026", "NombreArchivo" : "CultivationOnline-2655_JabraScan.pdf", "numCapitulo" : "2655", "nombreCapitulo" : "Maniobras (2)"                                                         				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "02-10-2026", "NombreArchivo" : "CultivationOnline-2656_JabraScan.pdf", "numCapitulo" : "2656", "nombreCapitulo" : "Maniobras (3)"                                                         				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
