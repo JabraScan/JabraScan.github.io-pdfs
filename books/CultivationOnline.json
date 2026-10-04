@@ -2658,6 +2658,7 @@
 		{ "server" : "local", "Fecha" : "02-10-2026", "NombreArchivo" : "CultivationOnline-2656_JabraScan.pdf", "numCapitulo" : "2656", "nombreCapitulo" : "Maniobras (3)"                                                         				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "02-10-2026", "NombreArchivo" : "CultivationOnline-2657_JabraScan.pdf", "numCapitulo" : "2657", "nombreCapitulo" : "Los Últimos Tres Supervivientes"                                       				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "02-10-2026", "NombreArchivo" : "CultivationOnline-2658_JabraScan.pdf", "numCapitulo" : "2658", "nombreCapitulo" : "Fin de las Maniobras"                                                  				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "04-10-2026", "NombreArchivo" : "CultivationOnline-2659_JabraScan.pdf", "numCapitulo" : "2659", "nombreCapitulo" : "Asamblea"                                                  							, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "04-10-2026", "NombreArchivo" : "CultivationOnline-2659_JabraScan.pdf", "numCapitulo" : "2659", "nombreCapitulo" : "Asamblea"                                                  							, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "04-10-2026", "NombreArchivo" : "CultivationOnline-2660_JabraScan.pdf", "numCapitulo" : "2660", "nombreCapitulo" : "Arrestado Otra Vez"                                                    				, "tituloObra" : "Cultivation Online" }
   ]
 }
