@@ -2662,7 +2662,10 @@
 		{ "server" : "local", "Fecha" : "04-10-2026", "NombreArchivo" : "CultivationOnline-2660_JabraScan.pdf", "numCapitulo" : "2660", "nombreCapitulo" : "Arrestado Otra Vez (1)"                                                				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "06-10-2026", "NombreArchivo" : "CultivationOnline-2661_JabraScan.pdf", "numCapitulo" : "2661", "nombreCapitulo" : "Arrestado Otra Vez (2)"                                                				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "06-10-2026", "NombreArchivo" : "CultivationOnline-2662_JabraScan.pdf", "numCapitulo" : "2662", "nombreCapitulo" : "Extractores"                                                           				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "06-10-2026", "NombreArchivo" : "CultivationOnline-2663_JabraScan.pdf", "numCapitulo" : "2663", "nombreCapitulo" : "General Supremo"                                                       				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "06-10-2026", "NombreArchivo" : "CultivationOnline-2663_JabraScan.pdf", "numCapitulo" : "2663", "nombreCapitulo" : "General Supremo (1)"                                                   				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "07-10-2026", "NombreArchivo" : "CultivationOnline-2664_JabraScan.pdf", "numCapitulo" : "2664", "nombreCapitulo" : "General Supremo (2)"                                                   				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "08-10-2026", "NombreArchivo" : "CultivationOnline-2665_JabraScan.pdf", "numCapitulo" : "2665", "nombreCapitulo" : "La Unión (1)"                                                          				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "08-10-2026", "NombreArchivo" : "CultivationOnline-2666_JabraScan.pdf", "numCapitulo" : "2666", "nombreCapitulo" : "La Unión (2)"                                                          				, "tituloObra" : "Cultivation Online" }
 
   ]
 }
