@@ -2665,7 +2665,7 @@
 		{ "server" : "local", "Fecha" : "06-10-2026", "NombreArchivo" : "CultivationOnline-2663_JabraScan.pdf", "numCapitulo" : "2663", "nombreCapitulo" : "General Supremo (1)"                                                   				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "07-10-2026", "NombreArchivo" : "CultivationOnline-2664_JabraScan.pdf", "numCapitulo" : "2664", "nombreCapitulo" : "General Supremo (2)"                                                   				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "08-10-2026", "NombreArchivo" : "CultivationOnline-2665_JabraScan.pdf", "numCapitulo" : "2665", "nombreCapitulo" : "La Unión (1)"                                                          				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "08-10-2026", "NombreArchivo" : "CultivationOnline-2666_JabraScan.pdf", "numCapitulo" : "2666", "nombreCapitulo" : "La Unión (2)"                                                          				, "tituloObra" : "Cultivation Online" }
-
+		{ "server" : "local", "Fecha" : "08-10-2026", "NombreArchivo" : "CultivationOnline-2666_JabraScan.pdf", "numCapitulo" : "2666", "nombreCapitulo" : "La Unión (2)"                                                          				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "09-10-2026", "NombreArchivo" : "CultivationOnline-2667_JabraScan.pdf", "numCapitulo" : "2667", "nombreCapitulo" : "La Unión (3)"                                                          				, "tituloObra" : "Cultivation Online" }
   ]
 }
