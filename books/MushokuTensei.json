@@ -394,7 +394,19 @@
 		{ "Fecha" : "06-11-2026", "NombreArchivo" : "Mushoku_159-v14-0002.pdf", "numCapitulo" : "159.2"  , "nombreCapitulo" : "v14.8·Duelo con la Inmortal Reina Demonio (2)"                         	, "tituloObra" : "Mushoku Tensei vol.14" },
 		{ "Fecha" : "06-11-2026", "NombreArchivo" : "Mushoku_160-v14-0000.pdf", "numCapitulo" : "160"    , "nombreCapitulo" : "v14.9·Un día en la Fortaleza Flotante"                                 	, "tituloObra" : "Mushoku Tensei vol.14" },
 		{ "Fecha" : "06-11-2026", "NombreArchivo" : "Mushoku_161-v14-0000.pdf", "numCapitulo" : "161"    , "nombreCapitulo" : "v14.10·4º Punto de Inflexión"                                          	, "tituloObra" : "Mushoku Tensei vol.14" },
-		{ "Fecha" : "06-11-2026", "NombreArchivo" : "Mushoku_162-v14-0000.pdf", "numCapitulo" : "162"    , "nombreCapitulo" : "v14.11·Principio y Fin"                                                	, "tituloObra" : "Mushoku Tensei vol.14" }
+		{ "Fecha" : "06-11-2026", "NombreArchivo" : "Mushoku_162-v14-0000.pdf", "numCapitulo" : "162"    , "nombreCapitulo" : "v14.11·Principio y Fin"                                                	, "tituloObra" : "Mushoku Tensei vol.14" },
+		{ "Fecha" : "06-11-2026", "NombreArchivo" : "Mushoku_163-v15-0000.pdf", "numCapitulo" : "163"    , "nombreCapitulo" : "v15.1·El Diario - 1a Parte"                                            	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_164-v15-0000.pdf", "numCapitulo" : "164"    , "nombreCapitulo" : "v15.2·El Diario - 2a Parte"                                            	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_165-v15-0000.pdf", "numCapitulo" : "165"    , "nombreCapitulo" : "v15.3·Determinación"                                                   	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_166-v15-0000.pdf", "numCapitulo" : "166"    , "nombreCapitulo" : "v15.4·La Hipótesis de Nanahoshi"                                       	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_167-v15-0000.pdf", "numCapitulo" : "167"    , "nombreCapitulo" : "v15.5·La Llegada de la Carta"                                          	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_168-v15-0000.pdf", "numCapitulo" : "168"    , "nombreCapitulo" : "v15.6·Los Preparativos"                                                	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_169-v15-0000.pdf", "numCapitulo" : "169"    , "nombreCapitulo" : "v15.7·Preparativos Completados"                                        	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_170-v15-0000.pdf", "numCapitulo" : "170"    , "nombreCapitulo" : "v15.8·Quagmire VS Dios Dragón"                                         	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_171-v15-0000.pdf", "numCapitulo" : "171"    , "nombreCapitulo" : "v15.9·Mad Sword VS Dios Dragón"                                        	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_172-v15-0000.pdf", "numCapitulo" : "172"    , "nombreCapitulo" : "v15.10·Eris Greyrat - 1a Parte"                                        	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "07-11-2026", "NombreArchivo" : "Mushoku_173-v15-0000.pdf", "numCapitulo" : "173"    , "nombreCapitulo" : "v15.11·Eris Greyrat - 2a Parte"                                        	, "tituloObra" : "Mushoku Tensei vol.15" },
+		{ "Fecha" : "08-11-2026", "NombreArchivo" : "Mushoku_173-v15-0500.pdf", "numCapitulo" : "162.5"  , "nombreCapitulo" : "v15·Arte"                                                              	, "tituloObra" : "Mushoku Tensei vol.15" }
 
 	]
 }
