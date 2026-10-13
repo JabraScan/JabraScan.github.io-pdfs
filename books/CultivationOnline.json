@@ -2668,7 +2668,8 @@
 		{ "server" : "local", "Fecha" : "08-10-2026", "NombreArchivo" : "CultivationOnline-2666_JabraScan.pdf", "numCapitulo" : "2666", "nombreCapitulo" : "La Unión (2)"                                                          				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "09-10-2026", "NombreArchivo" : "CultivationOnline-2667_JabraScan.pdf", "numCapitulo" : "2667", "nombreCapitulo" : "La Unión (3)"                                                          				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "10-10-2026", "NombreArchivo" : "CultivationOnline-2668_JabraScan.pdf", "numCapitulo" : "2668", "nombreCapitulo" : "Objetivo Equivocado"                                                   				, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "12-10-2026", "NombreArchivo" : "CultivationOnline-2669_JabraScan.pdf", "numCapitulo" : "2669", "nombreCapitulo" : "Interrogando al Atacante"                                              				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "12-10-2026", "NombreArchivo" : "CultivationOnline-2669_JabraScan.pdf", "numCapitulo" : "2669", "nombreCapitulo" : "Interrogando al Atacante"                                              				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "13-10-2026", "NombreArchivo" : "CultivationOnline-2670_JabraScan.pdf", "numCapitulo" : "2670", "nombreCapitulo" : "Sombras Furiosas"                                                      				, "tituloObra" : "Cultivation Online" }
 
   ]
 }

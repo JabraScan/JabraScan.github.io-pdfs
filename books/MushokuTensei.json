@@ -285,8 +285,8 @@
 		{ "Fecha" : "26-10-2026", "NombreArchivo" : "Mushoku_097-v09-0002.pdf", "numCapitulo" :  "97.2"  , "nombreCapitulo" : "v09.14·El Último Empujón (2)"                                          	, "tituloObra" : "Mushoku Tensei vol.09" },
 		{ "Fecha" : "26-10-2026", "NombreArchivo" : "Mushoku_097-v09-0003.pdf", "numCapitulo" :  "97.3"  , "nombreCapitulo" : "v09.14·El Último Empujón (3)"                                          	, "tituloObra" : "Mushoku Tensei vol.09" },
 		{ "Fecha" : "26-10-2026", "NombreArchivo" : "Mushoku_098-v09-0001.pdf", "numCapitulo" :  "98.1"  , "nombreCapitulo" : "v09·Especial - Operación Mad Dog (1)"                                  	, "tituloObra" : "Mushoku Tensei vol.09" },
-		{ "Fecha" : "26-10-2026", "NombreArchivo" : "Mushoku_098-v09-0002.pdf", "numCapitulo" :  "98.2"  , "nombreCapitulo" : "v09·Especial - Operación Mad Dog (2)"                                  	, "tituloObra" : "Mushoku Tensei vol.09" }
-		
+		{ "Fecha" : "26-10-2026", "NombreArchivo" : "Mushoku_098-v09-0002.pdf", "numCapitulo" :  "98.2"  , "nombreCapitulo" : "v09·Especial - Operación Mad Dog (2)"                                  	, "tituloObra" : "Mushoku Tensei vol.09" },
+		{ "Fecha" : "27-10-2026", "NombreArchivo" : "Mushoku_098-v09-0003.pdf", "numCapitulo" :  "98.3"  , "nombreCapitulo" : "v09·Especial - Operación Mad Dog (3)"                                  	, "tituloObra" : "Mushoku Tensei vol.09" }
 
 	]
 }
