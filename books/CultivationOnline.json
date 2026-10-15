@@ -2671,6 +2671,7 @@
 		{ "server" : "local", "Fecha" : "12-10-2026", "NombreArchivo" : "CultivationOnline-2669_JabraScan.pdf", "numCapitulo" : "2669", "nombreCapitulo" : "Interrogando al Atacante"                                              				, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "13-10-2026", "NombreArchivo" : "CultivationOnline-2670_JabraScan.pdf", "numCapitulo" : "2670", "nombreCapitulo" : "Sombras Furiosas (1)"                                                      			, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "14-10-2026", "NombreArchivo" : "CultivationOnline-2671_JabraScan.pdf", "numCapitulo" : "2671", "nombreCapitulo" : "Sombras Furiosas (2)"                                                      			, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "14-10-2026", "NombreArchivo" : "CultivationOnline-2672_JabraScan.pdf", "numCapitulo" : "2672", "nombreCapitulo" : "Sombras Furiosas (3)"                                                      			, "tituloObra" : "Cultivation Online" }
-  ]
+		{ "server" : "local", "Fecha" : "14-10-2026", "NombreArchivo" : "CultivationOnline-2672_JabraScan.pdf", "numCapitulo" : "2672", "nombreCapitulo" : "Sombras Furiosas (3)"                                                      			, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "15-10-2026", "NombreArchivo" : "CultivationOnline-2673_JabraScan.pdf", "numCapitulo" : "2673", "nombreCapitulo" : "Sombras Furiosas (4)"                                                      			, "tituloObra" : "Cultivation Online" }
+	]
 }
