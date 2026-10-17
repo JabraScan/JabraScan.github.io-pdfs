@@ -2673,6 +2673,8 @@
 		{ "server" : "local", "Fecha" : "14-10-2026", "NombreArchivo" : "CultivationOnline-2671_JabraScan.pdf", "numCapitulo" : "2671", "nombreCapitulo" : "Sombras Furiosas (2)"                                                      			, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "14-10-2026", "NombreArchivo" : "CultivationOnline-2672_JabraScan.pdf", "numCapitulo" : "2672", "nombreCapitulo" : "Sombras Furiosas (3)"                                                      			, "tituloObra" : "Cultivation Online" },
 		{ "server" : "local", "Fecha" : "15-10-2026", "NombreArchivo" : "CultivationOnline-2673_JabraScan.pdf", "numCapitulo" : "2673", "nombreCapitulo" : "Sombras Furiosas (4)"                                                      			, "tituloObra" : "Cultivation Online" },
-		{ "server" : "local", "Fecha" : "16-10-2026", "NombreArchivo" : "CultivationOnline-2674_JabraScan.pdf", "numCapitulo" : "2674", "nombreCapitulo" : "Solicitud Cancelada"                                                   				, "tituloObra" : "Cultivation Online" }
+		{ "server" : "local", "Fecha" : "16-10-2026", "NombreArchivo" : "CultivationOnline-2674_JabraScan.pdf", "numCapitulo" : "2674", "nombreCapitulo" : "Solicitud Cancelada"                                                   				, "tituloObra" : "Cultivation Online" },
+		{ "server" : "local", "Fecha" : "18-10-2026", "NombreArchivo" : "CultivationOnline-2675_JabraScan.pdf", "numCapitulo" : "2675", "nombreCapitulo" : "El Intento de Asesinato del Coronel Gu"                                				, "tituloObra" : "Cultivation Online" }
+
 	]
 }
